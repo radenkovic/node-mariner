@@ -48,7 +48,7 @@
     "bcrypt": "^3.0.0",
     "exif-reader": "^1.0.2",
     "jsonwebtoken": "^8.1.0",
-    "knex": "^0.16.3",
+    "knex": "^0.19.5",
     "moment": "^2.22.2",
     "mustache": "^3.0.1",
     "nodemailer": "^5.1.1",
