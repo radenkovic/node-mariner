@@ -45,7 +45,7 @@
   "dependencies": {
     "@babel/polyfill": "^7.2.5",
     "aws-sdk": "^2.266.1",
-    "bcrypt": "^3.0.0",
+    "bcrypt": "^5.0.0",
     "exif-reader": "^1.0.2",
     "jsonwebtoken": "^8.1.0",
     "knex": "^0.16.3",
